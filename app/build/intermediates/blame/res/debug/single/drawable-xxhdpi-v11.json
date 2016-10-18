@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/ace/AndroidStudioProjects/PaintDroid/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v11/guardar.png",
+        "source": "/home/ace/AndroidStudioProjects/PaintDroid/app/src/main/res/drawable-xxhdpi-v11/guardar.png"
+    },
+    {
+        "merged": "/home/ace/AndroidStudioProjects/PaintDroid/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v11/trazo.png",
+        "source": "/home/ace/AndroidStudioProjects/PaintDroid/app/src/main/res/drawable-xxhdpi-v11/trazo.png"
+    },
+    {
+        "merged": "/home/ace/AndroidStudioProjects/PaintDroid/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v11/ic_stat_name.png",
+        "source": "/home/ace/AndroidStudioProjects/PaintDroid/app/src/main/res/drawable-xxhdpi-v11/ic_stat_name.png"
+    },
+    {
+        "merged": "/home/ace/AndroidStudioProjects/PaintDroid/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v11/borrar.png",
+        "source": "/home/ace/AndroidStudioProjects/PaintDroid/app/src/main/res/drawable-xxhdpi-v11/borrar.png"
+    }
+]
