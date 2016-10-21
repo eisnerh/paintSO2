@@ -34,7 +34,6 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     ImageButton anadir;
     ImageButton borrar;
     ImageButton guardar;
-    private WebView web;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -69,8 +68,6 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
         pdefecto= pmediano;
 
-        web = (WebView) findViewById(R.id.web);
-        web.loadUrl("http://www.google.es");
     }
 
     @Override

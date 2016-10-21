@@ -60,10 +60,6 @@
         "source": "/home/ace/AndroidStudioProjects/PaintDroid/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_expanded_menu_layout.xml"
     },
     {
-        "merged": "/home/ace/AndroidStudioProjects/PaintDroid/app/build/intermediates/res/merged/debug/layout/weblayout.xml",
-        "source": "/home/ace/AndroidStudioProjects/PaintDroid/app/src/main/res/layout/weblayout.xml"
-    },
-    {
         "merged": "/home/ace/AndroidStudioProjects/PaintDroid/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
         "source": "/home/ace/AndroidStudioProjects/PaintDroid/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_list_menu_item_radio.xml"
     },
